@@ -1,1 +1,1 @@
-https://google.com
+https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQBRhAMgYIBxBFGDzSAQgyNzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
